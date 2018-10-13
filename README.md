@@ -12,7 +12,7 @@ Yes, Im doing this for fun, not because it makes sence.
 # Level Editor?
 Not Yet. I'm making levels by hand untill I get around to that!
 
-### Dependencies
+## Dependencies
 * Grm3
 * GO-GL 2.1
 * GLFW 3.2
