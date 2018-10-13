@@ -3,4 +3,4 @@ SectorEdit is A CPU accelerated First Person 3D Graphics Engine Written Entirely
 ### Dependencies
 * Grm3
 * GO-GL 2.1
-* GLFW
+* GLFW 3.2
