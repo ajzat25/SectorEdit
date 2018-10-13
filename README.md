@@ -6,7 +6,7 @@ SectorEdit uses optimisations similar to the techniques used some older game eng
 ## What does CPU acceleration mean?
 It means that the gpu never see's a pixel of data (in the map) that won't end up visable on the screen, saving time futility rendering extra triangles.
 
-### Thats Dumb! VBO's, and VAO's have been around forever!
+### Why? VBO's, and VAO's have been around forever!
 Yes, Im doing this for fun, not because it makes sence.
 
 # Level Editor?
