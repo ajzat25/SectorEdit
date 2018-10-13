@@ -10,7 +10,7 @@ It means that the gpu never see's a pixel of data (in the map) that won't end up
 Yes, Im doing this for fun, not because it makes sence.
 
 # Level Editor?
-Not Yet. I'm making levels by hand untill I get around to that
+Not Yet. I'm making levels by hand untill I get around to that!
 
 ### Dependencies
 * Grm3
