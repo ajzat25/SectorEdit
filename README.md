@@ -7,7 +7,7 @@ SectorEdit uses optimisations similar to the techniques used some older game eng
 It means that the gpu never see's a pixel of data (in the map) that won't end up visable on the screen, saving time futility rendering extra triangles.
 
 ### Why? VBO's, and VAO's have been around forever!
-Yes, Im doing this for fun, not because it makes sence.
+Yes, Im doing this for fun, not because it makes sense.
 
 # Level Editor?
 Not Yet. I'm making levels by hand untill I get around to that!
