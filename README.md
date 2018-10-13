@@ -15,7 +15,7 @@ Not Yet. I'm making levels by hand untill I get around to that!
 ## How does it work?
 Check out this neat [wiki](https://github.com/ajzat25/SectorEdit/wiki)
 
-### Dependencies
+## Dependencies
 * Grm3
 * GO-GL 2.1
 * GLFW 3.2
