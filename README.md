@@ -12,6 +12,9 @@ Yes, Im doing this for fun, not because it makes sense.
 # Level Editor?
 Not Yet. I'm making levels by hand untill I get around to that!
 
+## How does it work?
+Check out this neat [wiki](wiki)
+
 ## Dependencies
 * Grm3
 * GO-GL 2.1
