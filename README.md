@@ -1,2 +1,2 @@
 # SectorEdit
-## A CPU accelerated First Person 3D Graphics Engine Written Entirely in Golang
+A CPU accelerated First Person 3D Graphics Engine Written Entirely in Golang
