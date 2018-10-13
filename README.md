@@ -13,7 +13,7 @@ Yes, Im doing this for fun, not because it makes sense.
 Not Yet. I'm making levels by hand untill I get around to that!
 
 ## How does it work?
-Check out this neat [wiki](wiki)
+Check out this neat [wiki](https://github.com/ajzat25/SectorEdit/wiki)
 
 ## Dependencies
 * Grm3
