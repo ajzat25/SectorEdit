@@ -19,6 +19,10 @@ Not Yet. I'm making levels by hand untill I get around to that!
 ## How does it work?
 Check out the [wiki](https://github.com/ajzat25/SectorEdit/wiki)
 
+## Its Buggy!
+Short: Yes. It is.
+Long: Making a 3d game engine is lots of work, and ***I Work Alone*** so It will probably be pretty buggy.
+
 ## Dependencies
 * Grm3
 * GO-GL 2.1
