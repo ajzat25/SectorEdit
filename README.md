@@ -21,7 +21,8 @@ Check out the [wiki](https://github.com/ajzat25/SectorEdit/wiki)
 
 ## Its Buggy!
 Short: Yes. It is.
-Long: Making a 3d game engine is lots of work, and ***I Work Alone*** so It will probably be pretty buggy.
+
+Long Version: Making a 3d game engine is lots of work, and ***I Work Alone*** so It will probably be pretty buggy at first. If you find a bug make sure its not already reported, and then let me know. I try to make fixing bugs my first priority, but it needs to be repeatable, well described, and include instructions on how to repeat the bug.
 
 ## Dependencies
 * Grm3
