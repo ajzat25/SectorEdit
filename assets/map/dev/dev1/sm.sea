@@ -1,0 +1,133 @@
+devmap1, by Andrew Johnson 2018 (SectorEdit18 v0.4b, sea v0.1);
+
+[atx][assets/texture/dev/256.png]!;
+[atx][assets/texture/dev/128.png]!;
+[atx][assets/texture/dev/512.png]!;
+
+[apt] [-8]  [-4] [0]   !; 0
+[apt] [15]  [-4] [0]   !; 1
+[apt] [8]   [4]  [0]   !; 2
+[apt] [-8]  [4]  [0]   !; 3
+[apt] [-8]  [-4] [4]   !; 4
+[apt] [15]  [-4] [4]   !; 5
+[apt] [8]   [4]  [8]   !; 6
+[apt] [-8]  [4]  [8]   !; 7
+
+[apt] [-2]  [4]  [1]  !; 8
+[apt] [2]   [4]  [1]  !; 9
+[apt] [2]   [8]  [1]  !; 10
+[apt] [-2]  [8]  [1]  !; 11
+[apt] [-2]  [4]  [6]  !; 12
+[apt] [2]   [4]  [6]  !; 13
+[apt] [2]   [8]  [6]  !; 14
+[apt] [-2]  [8]  [6]  !; 15
+
+[apt] [-40]  [14] [0]  !; 16
+[apt] [6]  [14] [0]  !; 17
+[apt] [6]  [8]  [0]  !; 18
+[apt] [-40]  [8]  [0]  !; 19
+[apt] [-40]  [14] [8]  !; 20
+[apt] [6]  [14] [1]  !; 21
+[apt] [6]  [8]  [1]  !; 22
+[apt] [-40]  [8]  [8]  !; 23
+[apt] [6]  [14] [8]  !; 24
+[apt] [6]  [8]  [8]  !; 25
+
+[apt] [8]  [14] [2]  !; 26
+[apt] [8]  [8]  [2]  !; 27
+[apt] [8]  [14] [8]  !; 28
+[apt] [8]  [8]  [8]  !; 29
+
+[apt] [14]  [14] [2]  !; 30
+[apt] [14]  [8]  [2]  !; 31
+[apt] [14]  [14] [8]  !; 32
+[apt] [14]  [8]  [8]  !; 33
+
+[apt] [9]  [9]  [2]  !; 34
+[apt] [9]  [13]  [2]  !; 35
+[apt] [13]  [9]  [2]  !; 36
+[apt] [13]  [13]  [2]  !; 37
+
+[apt] [9]  [9]  [-8]  !; 38
+[apt] [9]  [13]  [-8]  !; 39
+[apt] [13]  [9]  [-8]  !; 40
+[apt] [13]  [13]  [-8]  !; 41
+
+[apt] [9]  [9]  [-4]  !; 42
+[apt] [9]  [13]  [-4]  !; 43
+
+[apt] [4]  [4]  [-4]  !; 44
+[apt] [4]  [18]  [-4]  !; 45
+[apt] [4]  [4]  [-8]  !; 46
+[apt] [4]  [18]  [-8]  !; 47
+
+[awpt] [7] [4] [0] [3]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [4] [5] [1] [0]  !; [wtex][2]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [5] [6] [2] [1]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [7] [6] [5] [4]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][52]!;[push_wall]!;
+[awpt] [0] [1] [2] [3]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [6] [7] [12][13] !; [wtex][2]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [7] [3] [8] [12] !; [wtex][2]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [6] [13][9] [2]  !; [wtex][2]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [9] [8] [3] [2]  !; [wtex][2]!; [wlin][2][2]!; [wshf][0][1]!; [wrot][0]!; [push_wall]!;
+[appt] [12][13][9] [8]  !; [pref][1][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [14] [10] [9]  [13]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [8]  [11] [15] [12]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [15] [14] [13] [12]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [8]  [9]  [10] [11]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[appt] [8]  [9]  [13] [12]  !; [pref][0][0]!; [push_portal]!;
+[appt] [15] [14] [10] [11]  !; [pref][2][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [19] [18] [17]  [16]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [20] [24] [25]  [23]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [24] [20] [16]  [17]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [22] [21] [17]  [18]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [19] [16] [20]  [23]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [18] [19] [11]  [10]  !; [wtex][1]!; [wlin][2][2]!; [wshf][1][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [14] [15] [23]  [25]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [18] [10] [14]  [25]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][1]!; [wrot][0]!; [push_wall]!;
+[awpt] [11] [19] [23]  [15]  !; [wtex][1]!; [wlin][2][2]!; [wshf][1][0]!; [wrot][0]!; [push_wall]!;
+[appt] [11] [10] [14]  [15]  !; [pref][1][1]!; [push_portal]!;
+[appt] [24] [25] [22]  [21]  !; [pref][3][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [21] [22] [27]  [26]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [25] [24] [28]  [29]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [24] [21] [26]  [28]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [29] [27] [22]  [25]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[appt] [21] [22] [25]  [24]  !; [pref][2][1]!; [push_portal]!;
+[appt] [28] [29] [27]  [26]  !; [pref][4][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [30] [31] [33]  [32]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [27] [29] [33]  [31]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [30] [32] [28]  [26]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [32] [33] [29]  [28]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [26] [27] [34]  [35]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [35] [37] [30]  [26]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [27] [31] [36]  [34]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [37] [36] [31]  [30]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[appt] [26] [27] [29]  [28]  !; [pref][3][1]!; [push_portal]!;
+[appt] [34] [35] [37]  [36]  !; [pref][5][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [40] [41] [39]  [38]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [42] [43] [35]  [34]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [41] [40] [36]  [37]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [34] [36] [40]  [38]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [39] [41] [37]  [35]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[appt] [36] [37] [35]  [34]  !; [pref][4][1]!; [push_portal]!;
+[appt] [39] [38] [42]  [43]  !; [pref][6][0]!; [push_portal]!;
+[push_sector]!;
+
+[awpt] [43] [42] [44]  [45]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [38] [39] [47]  [46]  !; [wtex][0]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [46] [44] [42]  [38]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[awpt] [39] [43] [45]  [47]  !; [wtex][1]!; [wlin][2][2]!; [wshf][0][0]!; [wrot][0]!; [push_wall]!;
+[appt] [43] [42] [38]  [39] !; [pref][5][1]!; [push_portal]!;
+[push_sector]!;
+
+[eof]!
