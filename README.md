@@ -23,6 +23,5 @@ Check out the [wiki](https://github.com/ajzat25/SectorEdit/wiki)
 Yes. It is. I dont have infinite time, and I have more important things to do.
 
 ## Dependencies
-* Grm3
 * GO-GL 2.1
 * GLFW 3.2
