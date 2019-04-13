@@ -1,0 +1,15 @@
+apt         - add point                                                - [3]float64
+------------------------------------------------------------------------------------------
+awpt        - add points to wall                                      - []index -> points
+wtex        - set wall texture                                        - index -> textures
+wlin        - set the texture linear transform                        - [2]float64
+wshf        - set the texture shift transform                         - [2]float64
+wrot        - set the texture rotation                                - float64
+------------------------------------------------------------------------------------------
+appt        - add points to portal                                     - []index -> points
+pref        - set the portals reference sector, and reference portal   - [2]int
+------------------------------------------------------------------------------------------
+push_wall   - push the current wall
+push_portal - push the current portal
+push_sector - push the current wall, and portal stacks
+------------------------------------------------------------------------------------------
