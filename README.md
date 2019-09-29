@@ -1,10 +1,8 @@
 # SectorEdit
-SectorEdit is A CPU accelerated First Person 3D Graphics Engine in Golang.
-## Tell Me More
-SectorEdit uses optimisations similar to the techniques used some older game engines, like Doom, Quake, Build, and GoldSource. It works in OpenGL 2.1 immediate mode, and uses the fixed function pipeline. If you want to know more you may find the [wiki](https://github.com/ajzat25/SectorEdit/wiki) usefull.
+SectorEdit is A First Person 3D Graphics Engine in Golang. It uses Optimizations from older game engines like Quake and Goldsource. 
 
-### What does CPU acceleration mean?
-It means that the gpu never see's any data (in the map) that won't end up visable on the screen, saving time futility rendering extra triangles.
+## Tell Me More
+SectorEdit uses optimisations similar to the techniques used some older game engines, like Doom, Quake, Build, and GoldSource. It works in OpenGL 2.1 immediate mode, and uses the fixed function pipeline.
 
 # Screen Shots
 ![ScreenShot1](ScreenShot1.png)
